@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/chuanvo/Desktop/MyNewAppName/ios/Pods/Target\ Support\ Files/React-jsi/React-jsi-dummy.m \
+  /Users/chuanvo/Desktop/MyNewAppName/ios/Pods/Target\ Support\ Files/React-jsi/React-jsi-prefix.pch
